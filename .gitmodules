@@ -1,0 +1,9 @@
+[submodule "LagrangePolynomialDemo"]
+	path = LagrangePolynomialDemo
+	url = https://github.com/Rijndael1998/LagrangePolynomialDemo
+[submodule "A-Star-JS"]
+	path = A-Star-JS
+	url = https://github.com/Rijndael1998/A-Star-JS
+[submodule "JS-Sudoku-Solver"]
+	path = JS-Sudoku-Solver
+	url = https://github.com/Rijndael1998/JS-Sudoku-Solver
